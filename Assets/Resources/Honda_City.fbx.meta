@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 7c03d854cd6ed174c98260e2dcb5c4cc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Honda_City:Box001
+    100004: Honda_City:Chrome
+    100006: Honda_City:City
+    100008: Honda_City:Glass
+    100010: Honda_City:H
+    100012: Honda_City:Headlight
+    100014: Honda_City:Headlight Glass
+    100016: Honda_City:Hole
+    100018: Honda_City:Line003
+    100020: Honda_City:Object006
+    100022: Honda_City:Object008
+    100024: Honda_City:Plastic
+    100026: Honda_City:Reverse
+    100028: Honda_City:Reverse_glass
+    100030: Honda_City:Taillight
+    100032: Honda_City:Taillight_Glass
+    100034: Honda_City:Tire1
+    100036: Honda_City:Undercar
+    100038: Honda_City:Wheel wells
+    100040: Tire1
+    100042: Tire2
+    100044: Tire3
+    400000: //RootNode
+    400002: Honda_City:Box001
+    400004: Honda_City:Chrome
+    400006: Honda_City:City
+    400008: Honda_City:Glass
+    400010: Honda_City:H
+    400012: Honda_City:Headlight
+    400014: Honda_City:Headlight Glass
+    400016: Honda_City:Hole
+    400018: Honda_City:Line003
+    400020: Honda_City:Object006
+    400022: Honda_City:Object008
+    400024: Honda_City:Plastic
+    400026: Honda_City:Reverse
+    400028: Honda_City:Reverse_glass
+    400030: Honda_City:Taillight
+    400032: Honda_City:Taillight_Glass
+    400034: Honda_City:Tire1
+    400036: Honda_City:Undercar
+    400038: Honda_City:Wheel wells
+    400040: Tire1
+    400042: Tire2
+    400044: Tire3
+    2100000: City_Metal
+    2100002: Tyre_M_02
+    2100004: City_Body_M
+    2100006: Front_Glass_M
+    2100008: Front_Lamp_M
+    2100010: Coty_Taillight_M
+    2100012: lambert1
+    2100014: phong2
+    2100016: City_BlackVisor_M
+    2100018: Car_underhood_M
+    2100020: Rubber_M
+    2100022: Tyre_Shine_M
+    2300000: Honda_City:Box001
+    2300002: Honda_City:Chrome
+    2300004: Honda_City:City
+    2300006: Honda_City:Glass
+    2300008: Honda_City:H
+    2300010: Honda_City:Headlight
+    2300012: Honda_City:Headlight Glass
+    2300014: Honda_City:Hole
+    2300016: Honda_City:Line003
+    2300018: Honda_City:Object006
+    2300020: Honda_City:Object008
+    2300022: Honda_City:Plastic
+    2300024: Honda_City:Reverse
+    2300026: Honda_City:Reverse_glass
+    2300028: Honda_City:Taillight
+    2300030: Honda_City:Taillight_Glass
+    2300032: Honda_City:Tire1
+    2300034: Honda_City:Undercar
+    2300036: Honda_City:Wheel wells
+    2300038: Tire1
+    2300040: Tire2
+    2300042: Tire3
+    3300000: Honda_City:Box001
+    3300002: Honda_City:Chrome
+    3300004: Honda_City:City
+    3300006: Honda_City:Glass
+    3300008: Honda_City:H
+    3300010: Honda_City:Headlight
+    3300012: Honda_City:Headlight Glass
+    3300014: Honda_City:Hole
+    3300016: Honda_City:Line003
+    3300018: Honda_City:Object006
+    3300020: Honda_City:Object008
+    3300022: Honda_City:Plastic
+    3300024: Honda_City:Reverse
+    3300026: Honda_City:Reverse_glass
+    3300028: Honda_City:Taillight
+    3300030: Honda_City:Taillight_Glass
+    3300032: Honda_City:Tire1
+    3300034: Honda_City:Undercar
+    3300036: Honda_City:Wheel wells
+    3300038: Tire1
+    3300040: Tire2
+    3300042: Tire3
+    4300000: Honda_City:H
+    4300002: Honda_City:City
+    4300004: Honda_City:Headlight Glass
+    4300006: Honda_City:Headlight
+    4300008: Honda_City:Taillight_Glass
+    4300010: Honda_City:Reverse_glass
+    4300012: Honda_City:Taillight
+    4300014: Honda_City:Reverse
+    4300016: Honda_City:Object006
+    4300018: Honda_City:Object008
+    4300020: Honda_City:Chrome
+    4300022: Honda_City:Plastic
+    4300024: Honda_City:Hole
+    4300026: Honda_City:Glass
+    4300028: Honda_City:Undercar
+    4300030: Honda_City:Wheel wells
+    4300032: Honda_City:Box001
+    4300034: Honda_City:Line003
+    4300036: Honda_City:Tire1
+    4300038: Tire1
+    4300040: Tire2
+    4300042: Tire3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
